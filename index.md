@@ -1,6 +1,6 @@
 # Forest Hills
 
-![alt text](https://github.com/petermanos/Forest-Hills/blob/main/highlightedmap.png "Logo Title Text 1")
+![alt text](https://github.com/petermanos/Forest-Hills/blob/gh-pages/highlightedmap.png "Logo Title Text 1")
 
 Forest Hills is a residential community in Queens. It has a population of 73,488 people across the 1.99 square mile neighborhood!
 ‣ 54.15% female, 45.85% male
@@ -13,9 +13,9 @@ Overall, the forest Hills neighborhood has decent public transportation options.
 
 Forest Hills is an attractive place to live, with good commuting options, low crime rates, and a diverse population. In addition, this neighborhood is great for families as public schools in the neighborhood are all high ranking schools.
 
-![alt text](https://github.com/petermanos/Forest-Hills/blob/main/PriceAvgQueens.png "Median Price Distribution Across Queens")
-![alt text](https://github.com/petermanos/Forest-Hills/blob/main/PriceBoxplot.png "Distribution of Rentals in Forest Hills")
-![alt text](https://github.com/petermanos/Forest-Hills/blob/main/TypePiChart.png "Room type Pie Chart")
+![alt text](https://github.com/petermanos/Forest-Hills/blob/gh-pages/PriceAvgQueens.png "Median Price Distribution Across Queens")
+![alt text](https://github.com/petermanos/Forest-Hills/blob/gh-pages/PriceBoxplot.png "Distribution of Rentals in Forest Hills")
+![alt text](https://github.com/petermanos/Forest-Hills/blob/gh-pages/TypePiChart.png "Room type Pie Chart")
 
 Number of listings in Forest Hills:   144
 Highest priced Airbnb rental:         $2350
