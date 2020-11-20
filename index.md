@@ -1,6 +1,6 @@
 # Forest Hills
 
-![Map of Forest Hills](highlightedmap.png "Logo Title Text 1")
+![alt text](highlightedmap.png "Logo Title Text 1")
 
 Forest Hills is a residential community in Queens. It has a population of 73,488 people across the 1.99 square mile neighborhood!
 ‣ 54.15% female, 45.85% male
