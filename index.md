@@ -12,9 +12,9 @@ Overall, the forest Hills neighborhood has decent public transportation options.
 
 Forest Hills is an attractive place to live, with good commuting options, low crime rates, and a diverse population. In addition, this neighborhood is great for families as public schools in the neighborhood are all high ranking schools.
 
-<img src="PriceAvgQueensg.png" width="600">
-<img src="PriceBoxplot.png" width="600">
-<img src="TypePiChart.png" width="600">
+<img src="PriceAvgQueens.png" width="500">
+<img src="PriceBoxplot.png" width="500">
+<img src="TypePiChart.png" width="500">
 
 Number of listings in Forest Hills:   144
 Highest priced Airbnb rental:         $2350
